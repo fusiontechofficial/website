@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<!-- This site was created in Webflow. https://www.webflow.com -->
+<!-- Last Published: Mon Jan 29 2024 10:00:25 GMT+0000 (Coordinated Universal Time) -->
+<html data-wf-domain="www.fusiontech.live" data-wf-site="62b0519d9f36464387cd34b7">
+    <head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JZYPRNF5S3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JZYPRNF5S3');
+   </script>
+        <meta charset="utf-8"/>
+        <title>Blockchain Audit | FusionTech</title>
+        <meta content="Leading blockchain security and smart contract auditing firm. Diligent smart contract audits and blockchain security services." name="description"/>
+        <meta content="FusionTech - Audits" property="og:title"/>
+        <meta content="Leading blockchain security and smart contract auditing firm. Diligent smart contract audits and blockchain security services." property="og:description"/>
+        <meta content="wp-content\uploads\logo\og.png" property="og:image"/>
+        <meta content="FusionTech - Audits" property="twitter:title"/>
+        <meta content="Leading blockchain security and smart contract auditing firm. Diligent smart contract audits and blockchain security services." property="twitter:description"/>
+        <meta content="wp-content\uploads\logo\og.png" property="twitter:image"/>
+        <meta property="og:type" content="website"/>
+        <meta content="summary_large_image" name="twitter:card"/>
+        <meta content="width=device-width, initial-scale=1" name="viewport"/>
+        <meta content="Webflow" name="generator"/>
+        <link href="https://assets-global.website-files.com/62b0519d9f36464387cd34b7/css/hashlocks-wondrous-site.webflow.e4414f424.min.css" rel="stylesheet" type="text/css"/>
+        <link href="https://fonts.googleapis.com" rel="preconnect"/>
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous"/>
+        <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            WebFont.load({
+                google: {
+                    families: ["Inconsolata:400,700", "Inter:100,200,300,regular,500,600,700,800,900", "Maven Pro:regular,500,600,700,800,900"]
+                }
+            });
+        </script>
+        <script type="text/javascript">
+            !function(o, c) {
+                var n = c.documentElement
+                  , t = " w-mod-";
+                n.className += t + "js",
+                ("ontouchstart"in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
+            }(window, document);
+        </script>
+        <link href="wp-content\uploads\logo\favicon.png" rel="shortcut icon" type="image/x-icon"/>
+        <link href="wp-content\uploads\logo\favicon.png" rel="apple-touch-icon"/>
+        <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-233067015-1"></script>
+        <script type="text/javascript">
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+            gtag('config', 'UA-233067015-1', {
+                'anonymize_ip': false
+            });
+        </script>
+        <script src="https://www.google.com/recaptcha/api.js" type="text/javascript"></script>
+        <!-- Google Tag Manager -->
+        <script>
+            (function(w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({
+                    'gtm.start': new Date().getTime(),
+                    event: 'gtm.js'
+                });
+                var f = d.getElementsByTagName(s)[0]
+                  , j = d.createElement(s)
+                  , dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            }
+            )(window, document, 'script', 'dataLayer', 'GTM-N8WWZDK');
+        </script>
+        <!-- End Google Tag Manager -->
+        <script type="text/javascript" src="https://d1b3llzbo1rqxo.cloudfront.net/attributer.js"></script>
+        <script type="text/javascript">
+            window.__WEBFLOW_CURRENCY_SETTINGS = {
+                "currencyCode": "USD",
+                "symbol": "$",
+                "decimal": ".",
+                "fractionDigits": 2,
+                "group": ",",
+                "template": "{{wf {\"path\":\"symbol\",\"type\":\"PlainText\"} }} {{wf {\"path\":\"amount\",\"type\":\"CommercePrice\"} }} {{wf {\"path\":\"currencyCode\",\"type\":\"PlainText\"} }}",
+                "hideDecimalForWholeNumbers": false
+            };
+        </script>
+    </head>
+    <body class="body-3">
+        <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navbar w-nav">
+            <div class="w-layout-grid grid-navbar">
+        <div class="nav">
+            <a href="https://fusiontech.live" aria-current="page" class="brand w-nav-brand w--current">
+                <img src="wp-content\uploads\logo\fusiontech_full.png" loading="lazy" width="Auto" height="Auto" alt="FusionTech Emblem Logo" class="logo"/>
+            </a>
+        </div>
+        <div class="nav">
+            <nav role="navigation" class="nav-menu-2 w-nav-menu">
+                <a href="https://fusiontech.live" aria-current="page" class="nav-link-2 w-nav-link w--current">Home</a>
+                <a href="about" class="nav-link-2 w-nav-link">About</a>
+                <a href="services" class="nav-link-2 w-nav-link">Services</a>
+                <a href="projects" class="nav-link-2 w-nav-link">Projects</a>
+                <a href="https://token.fusiontech.live/" class="nav-link-2 w-nav-link">Token</a>
+            </nav>
+        </div>
+        <div class="nav right">
+            <div class="w-layout-grid grid-button-nav">
+                <a href="https://t.me/RosyRones" class="nav-button-2 w-button">Request Audit</a>
+                <div class="menu-button-2 w-nav-button">
+                    <div class="menu-icon w-icon-nav-menu"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="shadow-navbar"></div>
+        </div>
+        <div class="section-hero">
+            <div class="content single-page">
+                <div class="block-hero">
+                    <div data-w-id="730565fa-89ad-0a76-bb70-9159a382604d" style="-webkit-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="subtitle">Methodology</div>
+                    <h1 data-w-id="730565fa-89ad-0a76-bb70-9159a382604f" style="-webkit-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="heading-single-page">
+                        Blockchain <span class="text-span-36">Audits</span>
+                    </h1>
+                    <p data-w-id="730565fa-89ad-0a76-bb70-9159a3826051" style="-webkit-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="paragraph-large">
+                        <span class="text-span-33">Manual</span>
+                        , Competition Level, Line by Line Blockchain Auditing on Infrastructure, L1 &#x27;s, L2 &#x27;s, front ends and smart contracts. Leading Edge Audits by Esteemed Security Researchers. 
+                    </p>
+                </div>
+            </div>
+            <div data-w-id="730565fa-89ad-0a76-bb70-9159a382605a" style="-webkit-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="glow-top"></div>
+        </div>
+        <div class="section">
+            <div class="content">
+                <div class="w-layout-grid grid-page-a">
+                    <div data-w-id="fbf8a6af-31a5-19ae-c236-e9f07e08f517" style="-webkit-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="tasks">
+                        <div class="tasks-block">
+                            <h2 class="heading-14">
+                                <span>Our Audit </span>
+                                <span class="text-span-34">Process</span>
+                            </h2>
+                        </div>
+                        <p class="paragraph-5">
+                            <strong>Extensive Manual Code Review:</strong>
+                            In-depth examination of code for hidden issues.<br/>
+                            ‍<strong>Vulnerability Analysis:</strong>
+                            Identifying potential security weaknesses.<br/>
+                            ‍<strong>Offensive Testing:</strong>
+                            Using leading software toolkits to simulate attacks.<br/>
+                            ‍<strong>Development Revisions:</strong>
+                            Providing initial feedback for improvements.<br/>
+                            ‍<strong>Final Analysis and Report:</strong>
+                            Detailed final assessment with comprehensive findings.
+                        </p>
+                    </div>
+                    <div data-w-id="fbf8a6af-31a5-19ae-c236-e9f07e08f51e" style="-webkit-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="tasks">
+                        <div class="tasks-block">
+                            <h2 class="heading-10">
+                                Trusted Audit <span class="text-span-35">Reports</span>
+                            </h2>
+                        </div>
+                        <p class="paragraph-6">
+                            Going beyond industry standard, we provide value to developers and the wider community by including understandable context and risk information:<br/>
+                            <br/>
+                            - Code vulnerabilities and suggestions<br/>
+                            - Project context and creation<br/>
+                            - Risk assessments<br/>- Industry Research
+                        </p>
+                    </div>
+                </div>
+                <div class="w-layout-grid grid-right">
+                    <div class="block">
+                        <div data-w-id="d02b6325-29d1-370b-b56e-40b669b0cda1" style="-webkit-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="subtitle">Rating</div>
+                        <h2 data-w-id="d02b6325-29d1-370b-b56e-40b669b0cda3" style="-webkit-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="heading">FusionTech's Security Rating System</h2>
+                        <p data-w-id="d02b6325-29d1-370b-b56e-40b669b0cda5" style="-webkit-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="paragraph-large">Our Blockchain audits are based on our consistent rating system, in which code is qualified based on its quality, vulnerability, future risk, and complexity. We advise that projects with a rating less than secure should not be deployed, and the FusionTech's rating is reserved for projects that value and invest in ongoing security efforts after the audit to protect their stakeholders. </p>
+                    </div>
+                    <img src="https://assets-global.website-files.com/62b0519d9f36464387cd34b7/62d0c0e7fd079155591cd746_Hashlock-Secure-Graph.svg" loading="lazy" style="-webkit-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" data-w-id="d02b6325-29d1-370b-b56e-40b669b0cda7" alt="FusionTech Rating System" id="w-node-d02b6325-29d1-370b-b56e-40b669b0cda7-c8450638" class="image-12"/>
+                </div>
+                <div class="page-content">
+                    <h3 data-w-id="fbf8a6af-31a5-19ae-c236-e9f07e08f526" style="-webkit-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="heading-22">The Importance of Blockchain Auditing</h3>
+                    
+                    <h4 class="heading-15">
+                        <strong>Security Assurance</strong>
+                    </h4>
+                    <p class="paragraph-7">
+                        <strong>Importance:</strong>
+                        Auditing Layer 1 (L1) blockchains is crucial for ensuring the utmost security of the foundational blockchain protocol. These protocols often handle vast amounts of value and data, making them prime targets for attackers. An audit helps identify vulnerabilities and weaknesses in the blockchain &#x27;s design, consensus mechanism, and smart contract implementations, preventing potential breaches, hacks, or exploits that could lead to substantial financial losses and erode trust in the blockchain ecosystem.
+                    </p>
+                    <h4 class="heading-16">
+                        <strong>Network Stability and Reliability</strong>
+                    </h4>
+                    <p>
+                        <strong>Importance:</strong>
+                        L1 blockchains serve as the backbone of a wider network of applications and systems. Auditing these blockchains ensures that they are stable and reliable under various conditions, including high transaction volumes and potential attack vectors. It helps in assessing the blockchain &#x27;s ability to maintain continuous operations and handle stress, ensuring its robustness and reliability for users and developers who rely on its uninterrupted functionality.
+                    </p>
+                    <h4 class="heading-17">
+                        <strong>Compliance and Regulatory Adherence</strong>
+                    </h4>
+                    <p>
+                        <strong>Importance:</strong>
+                        With the growing scrutiny from regulators worldwide, auditing L1 blockchains for compliance is essential. It ensures that the blockchain adheres to legal and regulatory requirements, including those related to security, privacy, and financial regulations. This is particularly vital for blockchains that interact with traditional financial systems or handle sensitive user data, as non-compliance can lead to legal repercussions and damage the blockchain’s reputation.
+                    </p>
+                    <h4 class="heading-18">
+                        <strong>Innovation and Improvement Feedback</strong>
+                    </h4>
+                    <p>
+                        <strong>Importance:</strong>
+                        Auditing provides invaluable feedback for innovation and improvement in L1 blockchain protocols. Through thorough examination, auditors can identify areas for technological enhancement, efficiency improvements, or scalability solutions. This feedback is critical for the ongoing development and evolution of the blockchain, helping to maintain its competitive edge and adaptability in a rapidly changing technological landscape.
+                    </p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="section banner">
+            <div class="content">
+                <div data-w-id="5d90d470-fa17-1f16-14ad-fad48d39fb69" class="group-banner">
+                    <div class="block-banner">
+                        <h3 data-w-id="5d90d470-fa17-1f16-14ad-fad48d39fb6b" class="heading-banner">Whats Next? Lets Chat!</h3>
+                    </div>
+                    <div class="glow-banner"></div>
+                    <div class="div-block-6">
+                        <a data-w-id="056c8453-89ea-9bab-7074-7db86dde255d" href="/contact" class="button w-button">Contact us</a>
+                        <a data-w-id="02fb277d-5a1e-ae63-7c62-ba6f232da80f" href="/request-an-audit" class="button w-button">Request Audit</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section footer">
+            <div class="content">
+                        <div class="w-layout-grid grid-footer">
+                            <div id="w-node-_55706ab0-d83b-dd58-4be0-545fce2851f6-4a530cee" class="block-footer">
+                                <img src="wp-content\uploads\logo\fusiontech_full.png" loading="lazy" alt="FusionTech Logo" class="logo-footer">
+                                <p class="paragraph-footer">
+                                    We collaborate with blockchain developers, project creators and corporations to ensure that web3 innovations are secure and successful. <br>
+                                    <br>
+                                    <a href="mailto:admin@fusiontech.live" class="link-underlined-2">admin@fusiontech.live</a>
+                                </p>
+                            </div>
+                            <div class="block-footer">
+                                <div class="heading-footer-3">Quick Links</div>
+                                <a href="https://twitter.com/fusiontechh" class="link-footer-4">Twitter</a>
+                                <a href="https://fusiontech.medium.com" class="link-footer-4">Medium</a>
+                                <a href="https://github.com/fusiontechofficial" class="link-footer-4">Github</a>
+                                <a href="https://docs.fusiontech.live/" class="link-footer-4">Documentation</a>
+<p></p><a href="privacy" class="link-footer-4">Privacy Policy</a>
+<a href="terms-and-conditions" class="link-footer-2">Terms and Conditions</a>
+</div>
+<div class="block-footer">
+    <div class="heading-footer-3">Learn More</div>
+    <a href="blockchain-audit" class="link-footer-4">Blockchain Audit</a>
+    <a href="dapp-audits" class="link-footer-4">dApp Audit</a>
+
+<a href="solidity-audits" class="link-footer-4">
+    Solidity Audit<br>
+</a>
+<a href="web3-bridges" class="link-footer-4">
+    Web3 Bridge Audit<br>
+</a>
+<a href="crypto-kyc" class="link-footer-4">
+    Web3 KYC<br>
+</a>
+</div></div><div class="footer-down"></div>
+</div></div>
+        <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=62b0519d9f36464387cd34b7" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <script src="https://assets-global.website-files.com/62b0519d9f36464387cd34b7/js/webflow.5f5488e82.js" type="text/javascript"></script>
+    </body>
+</html>

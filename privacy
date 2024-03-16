@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<!-- This site was created in Webflow. https://www.webflow.com -->
+<!-- Last Published: Mon Jan 29 2024 10:00:25 GMT+0000 (Coordinated Universal Time) -->
+<html data-wf-domain="www.fusiontech.live" data-wf-page="63bcbdffbe351f74d959e259" data-wf-site="62b0519d9f36464387cd34b7">
+    <head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JZYPRNF5S3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JZYPRNF5S3');
+</script>
+        <meta charset="utf-8"/>
+        <title>Privacy Policy | FusionTech</title>
+        <meta content="Leading blockchain security and smart contract auditing firm. Diligent smart contract audits and blockchain security services." name="description"/>
+        <meta content="FusionTech - Audits" property="og:title"/>
+        <meta content="Leading blockchain security and smart contract auditing firm. Diligent smart contract audits and blockchain security services." property="og:description"/>
+        <meta content="wp-content\uploads\logo\og.png" property="og:image"/>
+        <meta content="FusionTech - Audits" property="twitter:title"/>
+        <meta content="Leading blockchain security and smart contract auditing firm. Diligent smart contract audits and blockchain security services." property="twitter:description"/>
+        <meta content="wp-content\uploads\logo\og.png" property="twitter:image"/>
+        <meta property="og:type" content="website"/>
+        <meta content="summary_large_image" name="twitter:card"/>
+        <meta content="width=device-width, initial-scale=1" name="viewport"/>
+        <meta content="Webflow" name="generator"/>
+        <link href="https://assets-global.website-files.com/62b0519d9f36464387cd34b7/css/hashlocks-wondrous-site.webflow.e4414f424.min.css" rel="stylesheet" type="text/css"/>
+        <link href="https://fonts.googleapis.com" rel="preconnect"/>
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous"/>
+        <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            WebFont.load({
+                google: {
+                    families: ["Inconsolata:400,700", "Inter:100,200,300,regular,500,600,700,800,900", "Maven Pro:regular,500,600,700,800,900"]
+                }
+            });
+        </script>
+        <script type="text/javascript">
+            !function(o, c) {
+                var n = c.documentElement
+                  , t = " w-mod-";
+                n.className += t + "js",
+                ("ontouchstart"in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
+            }(window, document);
+        </script>
+        <link href="wp-content\uploads\logo\favicon.png" rel="shortcut icon" type="image/x-icon"/>
+        <link href="wp-content\uploads\logo\favicon.png" rel="apple-touch-icon"/>
+        <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-233067015-1"></script>
+        <script type="text/javascript">
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+            gtag('config', 'UA-233067015-1', {
+                'anonymize_ip': false
+            });
+        </script>
+        <script src="https://www.google.com/recaptcha/api.js" type="text/javascript"></script>
+        <!-- Google Tag Manager -->
+        <script>
+            (function(w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({
+                    'gtm.start': new Date().getTime(),
+                    event: 'gtm.js'
+                });
+                var f = d.getElementsByTagName(s)[0]
+                  , j = d.createElement(s)
+                  , dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            }
+            )(window, document, 'script', 'dataLayer', 'GTM-N8WWZDK');
+        </script>
+        <!-- End Google Tag Manager -->
+        <script type="text/javascript" src="https://d1b3llzbo1rqxo.cloudfront.net/attributer.js"></script>
+        <script type="text/javascript">
+            window.__WEBFLOW_CURRENCY_SETTINGS = {
+                "currencyCode": "USD",
+                "symbol": "$",
+                "decimal": ".",
+                "fractionDigits": 2,
+                "group": ",",
+                "template": "{{wf {\"path\":\"symbol\",\"type\":\"PlainText\"} }} {{wf {\"path\":\"amount\",\"type\":\"CommercePrice\"} }} {{wf {\"path\":\"currencyCode\",\"type\":\"PlainText\"} }}",
+                "hideDecimalForWholeNumbers": false
+            };
+        </script>
+    </head>
+    <body class="body-11">
+        <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navbar w-nav">
+            <div class="w-layout-grid grid-navbar">
+        <div class="nav">
+            <a href="https://fusiontech.live/" aria-current="page" class="brand w-nav-brand" aria-label="home">
+                <img src="wp-content\uploads\logo\fusiontech_full.png" loading="lazy" width="Auto" height="Auto" alt="FusionTech Emblem Logo" class="logo">
+            </a>
+        </div>
+        <div class="nav">
+            <nav role="navigation" class="nav-menu-2 w-nav-menu">
+                <a href="https://fusiontech.live/" aria-current="page" class="nav-link-2 w-nav-link">Home</a>
+                <a href="about" class="nav-link-2 w-nav-link">About</a>
+                <a href="services" class="nav-link-2 w-nav-link">Services</a>
+                <a href="projects" class="nav-link-2 w-nav-link">Projects</a>
+                <a href="https://token.fusiontech.live/" class="nav-link-2 w-nav-link">Token</a>
+            </nav>
+        </div>
+        <div class="nav right">
+            <div class="w-layout-grid grid-button-nav">
+                <a href="https://t.me/RosyRones" class="nav-button-2 w-button">Request Audit</a>
+                <div class="menu-button-2 w-nav-button" style="-webkit-user-select: text;" aria-label="menu" role="button" tabindex="0" aria-controls="w-nav-overlay-1" aria-haspopup="menu" aria-expanded="false">
+                    <div class="menu-icon w-icon-nav-menu"></div>
+                </div>
+                </div>
+                </div>
+            </div>
+            <div class="shadow-navbar"></div>
+        </div>
+        <div class="section-hero">
+            <div data-w-id="46c82d41-5d2d-0a82-68d0-9988a1e5381f" style="-webkit-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="glow-top"></div>
+            <div class="container-3 w-container">
+                <h1>Privacy Policy</h1>
+            </div>
+        </div>
+        <div class="section-5">
+            <div class="text-block-3">
+                <strong>
+                    Data protection | Information about the collection of personal data and contact details of the person responsible<br/>‍
+                </strong><?br>
+                We are pleased that you are visiting our website and thank you for your interest. Below we will inform you about how your personal data is handled when you use our website. Personal data is all data with which you can be personally identified. 1.2 The person responsible for data processing on this website within the meaning of the General Data Protection Regulation, NewYory, email: admin@fusiontech.live. The person responsible for the processing of personal data is the natural or legal person who, alone or jointly with others, decides on the purposes and means of processing personal data. 1.3 For security reasons and to protect the transmission of personal data and other confidential content (e.g. orders or inquiries to the person responsible), this website uses an SSL or. TLS encryption. You can recognize an encrypted connection by the string “https://” and the lock symbol in your browser bar.<br/>
+                <br/>
+                ‍
+                <strong>
+                    Data collection when you visit our website<br/>‍
+                </strong></br>
+                If you use our website for informational purposes only, i.e. if you do not register or otherwise provide us with information, we only collect data that your browser transmits to our server (so-called “server log files”). When you access our website, we collect the following data, which is technically necessary for us to display the website to you: • Our website visited • Date and time at the time of access • Amount of data sent in bytes • Source/reference, from which you came to the site • Browser used • Operating system used • IP address used (if necessary: ​​in anonymized form) The processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR on the basis of our legitimate interest in improving stability and Functionality of our website. The data will not be passed on or used in any other way. However, we reserve the right to subsequently check the server log files if there are concrete indications of illegal use.<br/>
+
+<br/>
+                ‍
+                <strong>
+                    Cookies<br/>‍
+                </strong></br>
+                In order to make visiting our website attractive and to enable the use of certain functions, we use so-called cookies on various pages. These are small text files that are stored on your device. Some of the cookies we use are deleted after the end of the browser session, i.e. after you close your browser (so-called session cookies). Other cookies remain on your device and enable us or our partner companies (third-party cookies) to recognize your browser on your next visit (persistent cookies). If cookies are set, they collect and process certain user information such as browser and location data as well as IP address values ​​on an individual basis. Persistent cookies are automatically deleted after a specified period of time, which may differ depending on the cookie. If personal data is also processed through individual cookies implemented by us, the processing takes place in accordance with Article 6 (1) (b) GDPR either to implement the contract or in accordance with Article 6 (1) (f) GDPR to protect our legitimate interests the best possible functionality of the website as well as a customer-friendly and effective design of the page visit. We may work with advertising partners who help us to make our website more interesting for you. For this purpose, cookies from partner companies are also stored on your hard drive when you visit our website (third-party cookies). If we work with the aforementioned advertising partners, you will be informed individually and separately about the use of such cookies and the scope of the information collected in each case within the paragraphs below. Please note that you can set your browser so that you are informed about the setting of cookies and can decide individually whether to accept them or exclude the acceptance of cookies for certain cases or in general. Each browser differs in the way it manages cookie settings. This is described in the help menu of each browser, which explains how you can change your cookie settings.http://windows.microsoft.com/de-DE/windows-vista/Block-or-allow-cookies Firefox: https://support.mozilla.org/de/kb/cookies-allow-und-reject Chrome: http://support.google.com/chrome/bin/answer.py?hl=de&hlrm=en&answer=95647 Safari: https://support.apple.com/de-de/guide/safari/sfri11471/mac Opera: http://help.opera.com/Windows/10.20/de/cookies Please note that if you do not accept cookies, the functionality of our website may be restricted.<br/>
+
+
+<br/>
+                ‍
+                <strong>
+                    Use of customer data for direct advertising<br/>‍
+                </strong></br>
+                Registration for our email newsletter If you register for our email newsletter, we will regularly send you information about our offers. The only mandatory information for sending the newsletter is your email address. Providing further data is voluntary and is used to address you personally. We use the so-called double opt-in procedure to send the newsletter. This means that we will only send you an email newsletter if you have expressly confirmed to us that you agree to receive the newsletter. We will then send you a confirmation email in which you will be asked to confirm that you want to receive the newsletter in the future by clicking on a corresponding link. By activating the confirmation link, you give us your consent to use your personal data in accordance with Art. 6 Para. 1 lit. a GDPR. When you register for the newsletter, we save your IP address entered by the Internet Service Provider (ISP) as well as the date and time of registration in order to be able to trace any possible misuse of your email address at a later date. The data we collect when you register for the newsletter will be used exclusively for advertising purposes via the newsletter. You can unsubscribe from the newsletter at any time using the link provided in the newsletter or by sending a message to the person responsible mentioned at the beginning. Once you have unsubscribed, your email address will be immediately deleted from our newsletter distribution list unless you have expressly consented to further use of your data or we reserve the right to use your data beyond this, which is permitted by law and about which we inform you in this declaration .
+
+Sending the email newsletter to existing customers
+If you have provided us with your email address when purchasing goods or services, we reserve the right to regularly send you offers for goods or services similar to those you have already purchased to send our product range by email. In accordance with Section 7 Paragraph 3 UWG, we do not need to obtain your separate consent for this. In this respect, data processing is carried out solely on the basis of our legitimate interest in personalized direct advertising in accordance with Article 6 (1) (f) GDPR. If you have initially objected to the use of your email address for this purpose, we will not send emails. You are entitled to object to the use of your email address for the aforementioned advertising purpose at any time with future effect by notifying the person responsible named at the beginning. For this you will only incur transmission costs according to the basic tariffs. Once your objection has been received, the use of your email address for advertising purposes will be stopped immediately.
+
+Newsletter dispatch via rapidmail
+Our email newsletters are sent via the technical service provider rapidmail GmbH, Augustinerplatz 2, 79098 Freiburg (“rapidmail”), to whom we pass on the data you provided when registering for the newsletter. This transfer is carried out in accordance with Article 6 Paragraph 1 Letter f of the GDPR and serves our legitimate interest in using an advertising-effective, secure and user-friendly newsletter system. The data you enter to receive the newsletter (e.g. email address) is stored on rapidmail's servers in Germany. rapidmail uses this information to send and statistically evaluate the newsletter on our behalf. For evaluation purposes, the emails sent contain so-called web beacons or tracking pixels, which represent single-pixel image files that are stored on our website. This makes it possible to determine whether a newsletter message was opened and which links, if any, were clicked on. With the help of so-called conversion tracking, it can also be analyzed whether a pre-defined action (e.g. purchasing a product on our website) took place after clicking on the link in the newsletter. Technical information is also collected (e.g. time of access, IP address, browser type and operating system). The data is only collected pseudonymously and is not linked to your other personal data; direct personal reference is excluded. This data is used exclusively for statistical analysis of newsletter campaigns. The results of these analyzes can be used to better adapt future newsletters to the interests of the recipients. If you would like to object to data analysis for statistical evaluation purposes, you must unsubscribe from the newsletter. We have concluded an order processing agreement with rapidmail, in which we oblige rapidmail to protect our customers' data and not to pass it on to third parties. Further information about rapidmail's data protection can be found in rapidmail's data protection declaration: https://www.rapidmail.de/datenschutz<br/>
+
+
+<br/>
+                ‍
+                <strong>
+                    Tools and miscellaneous<br/>‍
+                </strong></br>
+                Cookie consent tool based on Usercentrics technology
+This website uses a cookie consent tool with technology from Usercentrics GmbH, Rosental 4, 80331 Munich ( hereinafter “Usercentrics”). By integrating a corresponding JavaScript code, users are shown a banner when they access the page, in which consent can be given for certain cookies and/or cookie-based applications by ticking a box. The tool blocks the setting of all cookies requiring consent until the respective user gives the relevant consent by checking the box. This ensures that such cookies are only set on the user's device if consent has been given. So that the cookie consent tool can clearly assign page views to individual users and individually record, log and store the user's consent settings for a session duration, certain user information (including the IP address) is collected when our website is accessed by the cookie consent tool. collected, transmitted to Usercentrics servers and stored there. This data processing is carried out in accordance with Article 6 Paragraph 1 Letter f of the GDPR on the basis of our legitimate interest in legally compliant, user-specific and user-friendly consent management for cookies and therefore in a legally compliant design of our website. Another legal basis for the data processing described is Article 6 (1) (c) GDPR. As those responsible, we are subject to the legal obligation to make the use of cookies that are not technically necessary dependent on the respective user consent. We have concluded an order processing agreement with Usercentrics, by which we oblige Usercentrics to protect the data of visitors to our website and not to pass it on to third parties. <br/>
+
+Google Web Fonts
+This site uses so-called web fonts for the uniform display of fonts, which are provided by Google Ireland Limited, Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland (“Google”). When you access a page, your browser loads the required web fonts into your browser cache in order to display texts and fonts correctly. For this purpose, the browser you use must connect to Google's servers. This may also result in personal data being transmitted to the Google LLC servers. come to the USA. In this way, Google becomes aware that our website was accessed via your IP address. The use of Google Web Fonts is in the interest of a uniform and attractive presentation of our online offerings. This represents a legitimate interest within the meaning of Article 6 Paragraph 1 Letter f of the GDPR. If your browser does not support web fonts, a standard font will be used by your computer. Further information about Google Web Fonts can be found at https://developers.google.com/fonts/faq and in Google's privacy policy: https://www.google.com/policies/privacy/. <br/>
+
+OpenStreetMap
+This site uses the open source mapping service “OpenStreetMap” from the OpenStreetMap Foundation, St John's Innovation Centre, Cowley Road, Cambridge, CB4 0WS, United Kingdom, via an API, to show you the location of our company and to give you the To make getting there easier. So that OpenStreetMap's map services can be made available to you, the service collects your IP address when you access the page and transmits it to an OpenStreetMap server, where it is stored. This data processing is carried out in accordance with Article 6 Paragraph 1 Letter f of the GDPR on the basis of our legitimate interest in an attractive presentation of our online offerings and the easy finding of our location. If you do not agree to the future transmission of your data to OpenStreetMap, you have the option of deactivating the OpenStreetMap web service completely by turning off the JavaScript application in your browser. OpenStreetMap and therefore the map display on this website cannot then be used. You can find further information about OpenStreetMap's data protection regulations at the following internet address: https://wiki.osmfoundation.org/wiki/Privacy_Policy To the extent legally required, we have your consent to the processing of your data as described above in accordance with Art. 6 Para. 1 lit. a GDPR obtained. You can revoke your consent at any time with future effect. To exercise your revocation, please follow the option described above for making an objection. <br/>
+
+
+<br/>
+                ‍
+                <strong>
+                    Rights of the person concerned<br/>‍
+                </strong></br>
+                The applicable data protection law grants you comprehensive data subject rights (rights of information and intervention) vis-à-vis the person responsible for the processing of your personal data, about which we will inform you below: • Right to information in accordance with Art. 15 GDPR: In particular, you have a right to information about your data from us personal data processed, the processing purposes, the categories of personal data processed, the recipients or categories of recipients to whom your data has been or will be disclosed, the planned storage period or the criteria for determining the storage period, the existence of a right to rectification, Deletion, restriction of processing, objection to processing, complaint to a supervisory authority, the origin of your data if it was not collected from you by us, the existence of automated decision-making including profiling and, if applicable, meaningful information about the logic involved and you the scope and intended effects of such processing, as well as your right to information about what guarantees exist in accordance with Art. 46 GDPR when your data is forwarded to third countries; • Right to rectification in accordance with Art. 16 GDPR: You have the right to immediate correction of incorrect data concerning you and/or completion of incomplete data stored by us; • Right to deletion in accordance with Art. 17 GDPR: You have the right to request the deletion of your personal data if the requirements of Art. 17 Paragraph 1 GDPR are met. However, this right does not apply in particular if the processing is necessary to exercise the right to freedom of expression and information, to fulfill a legal obligation, for reasons of public interest or to assert, exercise or defend legal claims; • Right to restriction of processing in accordance with Art. 18 GDPR: You have the right to request the restriction of the processing of your personal data as long as the accuracy of your data that you dispute is verified, if you refuse deletion of your data due to unlawful data processing and instead demand that the processing of your data be restricted, if you need your data to assert, exercise or defend legal claims after we no longer need this data after the purpose has been achieved or if you object for reasons of yours special situation, as long as it is not yet clear whether our legitimate reasons outweigh them; • Right to information in accordance with Art. 19 GDPR: If you have asserted the right to rectification, deletion or restriction of processing against the person responsible, the person responsible is obliged to inform all recipients to whom the personal data relating to you have been disclosed to this rectification or deletion of the data or restriction of processing, unless this proves impossible or involves disproportionate effort. You have the right to be informed about these recipients. • Right to data portability in accordance with Art. 20 GDPR: You have the right to receive the personal data you have provided to us in a structured, common and machine-readable format or to request that it be transmitted to another person responsible, if this is technically feasible ; • Right to revoke consent given in accordance with Art. 7 Para. 3 GDPR: You have the right to revoke consent to the processing of data that has been given at any time with effect for the future. In the event of revocation, we will delete the data concerned immediately unless further processing can be based on a legal basis for processing without consent. The revocation of consent does not affect the lawfulness of the processing carried out based on the consent before its revocation; • Right to complain in accordance with Art. 77 GDPR: If you are of the opinion that the processing of personal data concerning you violates the GDPR, you have the right - without prejudice to any other administrative or judicial remedy - to lodge a complaint with a supervisory authority, in particular in the Member State of your residence, Your place of work or the location of the alleged violation. 13.2 RIGHT TO OBJECT IF WE PROCESS YOUR PERSONAL DATA AS PART OF A BALANCE OF INTERESTS BASED ON OUR OVERWHELMING LEGITIMATE INTEREST, YOU HAVE THE RIGHT AT ANY TIME TO OBJECT TO THIS PROCESSING WITH EFFECT FOR THE FUTURE FOR REASONS ARISING FROM YOUR PARTICULAR SITUATION FT TO INSERT. IF YOU USE YOUR RIGHT TO OBJECT, WE WILL STOP PROCESSING THE AFFECTED DATA. HOWEVER, FURTHER PROCESSING IS RESERVED IF WE CAN PROVE COMPLEX REASONS FOR THE PROCESSING THAT ARE worthy of protection, which OUTWEIGH YOUR INTERESTS, FUNDAMENTAL RIGHTS AND FUNDAMENTAL FREEDOMS, OR IF THE PROCESSING SERVES THE ASSERTMENT, EXERCISE OR DEFENSE OF LEGAL CLAIMS. IF YOUR PERSONAL DATA IS PROCESSED BY US FOR DIRECT ADVERTISING, YOU HAVE THE RIGHT TO OBJECT AT ANY TIME TO THE PROCESSING OF PERSONAL DATA CONCERNING YOU FOR THE PURPOSE OF SUCH ADVERTISING. YOU MAY EXERCISE YOUR OPT-OUT AS DESCRIBED ABOVE. IF YOU USE YOUR RIGHT TO OBJECT, WE WILL STOP PROCESSING THE AFFECTED DATA FOR DIRECT ADVERTISING PURPOSES. 14) Duration of storage of personal data The duration of storage of personal data is measured based on the respective legal basis, the purpose of processing and - if relevant - additionally based on the respective legal retention period (e.g. commercial and tax law retention periods). When processing personal data on the basis of express consent in accordance with Article 6 (1) (a) GDPR, this data will be stored until the person concerned revokes their consent. If there are statutory retention periods for data that are processed within the framework of legal or transaction-like obligations on the basis of Article 6 Para. 1 lit and/or we have no legitimate interest in further storage. When processing personal data on the basis of Art. 6 Para. 1 lit. f GDPR, this data will be stored until the data subject exercises his or her right to object in accordance with Article 21 Para. 1 GDPR, unless we can demonstrate compelling legitimate reasons for the processing that outweigh the interests, rights and freedoms of the data subject, or the processing serves to assert, exercise or defend legal claims. When processing personal data for the purpose of direct advertising on the basis of Article 6 Paragraph 1 Letter f of the GDPR, this data will be stored until the person concerned exercises their right to object in accordance with Article 21 Paragraph 2 of the GDPR. Unless otherwise stated in the other information in this declaration about specific processing situations, stored personal data will be deleted when they are no longer necessary for the purposes for which they were collected or otherwise processed. <br/>
+
+
+            </div>
+        </div>
+        <div class="section footer">
+            <div class="content">
+                        <div class="w-layout-grid grid-footer">
+                            <div id="w-node-_55706ab0-d83b-dd58-4be0-545fce2851f6-4a530cee" class="block-footer">
+                                <img src="wp-content\uploads\logo\fusiontech_full.png" loading="lazy" alt="FusionTech Logo" class="logo-footer"/>
+                                <p class="paragraph-footer">
+                                    We collaborate with blockchain developers, project creators and corporations to ensure that web3 innovations are secure and successful. <br/>
+                                    <br/>
+                                    <a href="mailto:admin@fusiontech.live" class="link-underlined-2">admin@fusiontech.live</a>
+                                </p>
+                            </div>
+                            <div class="block-footer">
+                                <div class="heading-footer-3">Quick Links</div>
+                                <a href="https://twitter.com/fusiontechh" class="link-footer-4">Twitter</a>
+                                <a href="https://fusiontech.medium.com" class="link-footer-4">Medium</a>
+                                <a href="https://github.com/fusiontechofficial" class="link-footer-4">Github</a>
+                                <a href="https://docs.fusiontech.live/" class="link-footer-4">Documentation</a>
+<p></p><a href="privacy" class="link-footer-4">Privacy Policy</a>
+<a href="terms-and-conditions" class="link-footer-2">Terms and Conditions</a>
+</div>
+<div class="block-footer">
+    <div class="heading-footer-3">Learn More</div>
+    <a href="blockchain-audit" class="link-footer-4">Blockchain Audit</a>
+    <a href="dapp-audits" class="link-footer-4">dApp Audit</a>
+
+<a href="solidity-audits" class="link-footer-4">
+    Solidity Audit<br>
+</a>
+<a href="web3-bridges" class="link-footer-4">
+    Web3 Bridge Audit<br>
+</a>
+<a href="crypto-kyc" class="link-footer-4">
+    Web3 KYC<br>
+</a>
+</div></div><div class="footer-down"></div>
+</div></div>s
+<div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navbar w-nav">
+    <div class="w-layout-grid grid-navbar">
+        <div class="nav">
+            <a href="https://fusiontech.live/" aria-current="page" class="brand w-nav-brand" aria-label="home">
+                <img src="wp-content\uploads\logo\fusiontech_full.png" loading="lazy" width="Auto" height="Auto" alt="FusionTech Emblem Logo" class="logo">
+            </a>
+        </div>
+        <div class="nav">
+            <nav role="navigation" class="nav-menu-2 w-nav-menu">
+                <a href="https://fusiontech.live/" aria-current="page" class="nav-link-2 w-nav-link">Home</a>
+                <a href="about" class="nav-link-2 w-nav-link">About</a>
+                <a href="services" class="nav-link-2 w-nav-link">Services</a>
+                <a href="https://token.fusiontech.live/" class="nav-link-2 w-nav-link">Token</a>
+            </nav>
+        </div>
+        <div class="nav right">
+            <div class="w-layout-grid grid-button-nav">
+                <a href="https://t.me/RosyRones" class="nav-button-2 w-button">Request Audit</a>
+                <div class="menu-button-2 w-nav-button" style="-webkit-user-select: text;" aria-label="menu" role="button" tabindex="0" aria-controls="w-nav-overlay-1" aria-haspopup="menu" aria-expanded="false">
+                    <div class="menu-icon w-icon-nav-menu"></div>
+                </div>
+                </div>
+        <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=62b0519d9f36464387cd34b7" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <script src="https://assets-global.website-files.com/62b0519d9f36464387cd34b7/js/webflow.5f5488e82.js" type="text/javascript"></script>
+    </body>
+</html>
